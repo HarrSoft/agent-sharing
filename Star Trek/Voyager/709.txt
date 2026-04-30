@@ -1,0 +1,632 @@
+S7 E9
+Flesh and Blood Part 1
+Stardate: Unknown / 54337.5
+Original Airdate: 29 November 2000
+
+[Woodland]
+(Two Hirogen with honking big guns are hiding behind a tree trunk One is an older male, one young. Father and son perhaps?.)
+HIROGEN 1: How many are there?
+HIROGEN 2: They've deflected our scans.
+HIROGEN 1: You must learn to rely on instinct. There are four of them, Perhaps five.
+(They move on slowly. Something runs across the path behind them and the young hunter fires his gun, missing.)
+HIROGEN 1: No! You'll lead them right to us.
+HIROGEN 2: Let them come.
+HIROGEN 1: Never let your prey control the hunt. There. Ten metres.
+(Then another noise.)
+HIROGEN 2: They're behind us now.
+(They continue down to a small lake. The water is calm and reflective. Repeated weapons fire comes out of the water, hitting the Hirogen and killing them. Then four figures emerge from below the surface - in Starfleet uniforms.)
+
+[Medical lab]
+
+CHAKOTAY: You wanted to see me?
+EMH: I'd like to request a temporary leave of absence. You remember the Ovions?
+CHAKOTAY: The hexapods.
+EMH: They just asked me to speak at a Symposium on spaceborne pathogens. There are going to be physicians from all over the Quadrant. This is a rare opportunity for me. And for the rest of the crew.
+CHAKOTAY: How's that?
+EMH: I'd be representing Voyager. Putting our best foot forward, so to speak. And, needless to say hexapods are more likely to know a best foot when they see one.
+CHAKOTAY: I'm sorry, Doctor. It's just not practical.
+EMH: I seem to recall Lieutenant Torres participating in Boray Conference on transwarp theory a few months back.
+CHAKOTAY: That was different.
+EMH: How?
+CHAKOTAY: We were there. The Ovion system is two weeks behind us. I can't ask the captain to turn the ship around.
+EMH: I could take a shuttle.
+CHAKOTAY: You could also write a paper and submit it on subspace.
+EMH: That's hardly an effective means of making a presentation.
+CHAKOTAY: Say you do take a shuttle. Would you expect us to sit here and wait for you to get back?
+EMH: There must be some fascinating anomaly nearby for the crew to explore.
+JANEWAY [OC]: Janeway to Chakotay.
+CHAKOTAY: Go ahead.
+JANEWAY [OC]: We just received a distress call on an Hirogen frequency.
+CHAKOTAY: We haven't heard from them in a while.
+JANEWAY [OC]: I've altered course. I'd like you on the bridge.
+CHAKOTAY: I'm on my way.
+EMH: Perhaps the Hirogen will keep you occupied long enough for me to attend the Symposium.
+(Chakotay leaves.)
+EMH: You can't blame a hologram for trying.
+
+[Bridge]
+
+PARIS: Approaching the coordinates.
+JANEWAY: Take us out of warp. Raise shields and stand by weapons.
+KIM: I've got them. Six thousand kilometres off starboard.
+JANEWAY: On screen.
+(It looks like a space station.)
+CHAKOTAY: Monotanium hull plating. Tylium based power. It's Hirogen.
+KIM: They're not responding to hails.
+CHAKOTAY: Life signs?
+KIM: I'm getting a lot of strange readings. Any one of them could be a life form.
+JANEWAY: Any Hirogen ships in the vicinity?
+PARIS: No, ma'am.
+CHAKOTAY: It might be a trap.
+JANEWAY: The Hirogen aren't the type to play possum. Move us within transporter range. Chakotay, take an away team.
+
+[Forest]
+
+(Chakotay, Paris, Seven, Tuvok and a security guard beam down.)
+CHAKOTAY: Let's break into teams. Seven.
+(She and Chakotay go one way, the remaining three the other. Tuvok finds an Hirogen corpse hidden under a pile of leaves.)
+PARIS: Particle weapons.
+TUVOK: These burns are consistent with a type-three phaser.
+(Down by the lake, Seven finds a weapon wedged in a tree. It has blood on it.)
+SEVEN: Commander.
+CHAKOTAY: A bat'leth.
+SEVEN: What's a Klingon weapon doing in the Delta Quadrant?
+CHAKOTAY: The blood's Hirogen. Chakotay to Tuvok and Paris.
+PARIS [OC]: Go ahead.
+CHAKOTAY: I'm reading an Hirogen lifesign. It could be wounded.
+PARIS [OC]: We're right behind you.
+(Weapons fire hits a nearby rock.)
+DONIK: Stay away!
+CHAKOTAY: Hold your fire!
+(He doesn't. Chakotay signals Tuvok and Paris to go around.)
+CHAKOTAY: We're here to help you.
+DONIK: I said stay away!
+(The weapons fire is making so much noise that the Hunter does not hear Tuvok sneak up behind. He neck-pinches him.)
+PARIS: He's lost a lot of blood. I need to get him back to the ship. Paris to Sickbay, two to beam up.
+EMH: Acknowledged.
+SEVEN: Commander.
+(Seven uncovers a console.)
+TUVOK: Replicated Starfleet technology.
+SEVEN: It's some kind of holodeck interface.
+TUVOK: There appear to be holo-emitters installed throughout the facility.
+SEVEN: This environment is simulated.
+CHAKOTAY: Why didn't our tricorders detect it?
+TUVOK: I am not certain.
+CHAKOTAY: Can you shut down the emitters?
+SEVEN: I'll try.
+(She succeeds. The holodeck floor is littered with Hirogen corpses.)
+
+[Corridor]
+
+CHAKOTAY: Evidently, they made a few modifications. All of our preliminary scans indicated the environment was real.
+JANEWAY: Environments that fool sensors. No safety protocols. How many bodies?
+CHAKOTAY Forty-three. Most of them were killed by facsimiles of Alpha quadrant weapons. Romulan disrupters, Klingon bat'leths.
+JANEWAY: Starfleet phasers?
+CHAKOTAY: I think we'll find they all came from the holotechnology we gave the Hirogen three years ago.
+JANEWAY: They obviously missed the point. We gave them that technology so they could hunt holographic prey, not get themselves killed.
+
+[Sickbay]
+
+EMH:: Try to remain calm.
+DONIK: Get away from me!
+(He runs into the surgical bay forcefield and is knocked down.)
+CHAKOTAY: Can you sedate him?
+EMH: He won't let me get close enough.
+JANEWAY: We're not your enemies.
+DONIK: You're holograms. This is a simulation.
+JANEWAY: I assure you, we're quite real.
+(Donik throws a tray through the EMH.)
+DONIK: Liar.
+JANEWAY: Doctor, deactivate yourself.
+EMH: I can't treat the patient if I'm offline.
+JANEWAY: No one can treat him if he's terrified.
+EMH: Computer, deactivate EMH.
+CHAKOTAY: Our doctor's a hologram, we're not.
+DONIK: Why should I believe you?
+JANEWAY: I'm afraid you're going to have to. I'm Captain Kathryn Janeway. You're aboard my vessel.
+DONIK: Janeway. This is Voyager?
+CHAKOTAY: Looks like our reputation preceded us.
+DONIK: You're the ones who gave us the technology to simulate our hunts. Where are the rest of my people?
+CHAKOTAY: You were the only one we found alive.
+JANEWAY: This place you were in. It's some kind of holodeck.
+DONIK: A training facility, where young Hirogen learn the skills of the hunt.
+CHAKOTAY: You're a student.
+DONIK: A technician.
+JANEWAY: Computer, deactivate forcefield. Can you tell us what happened?
+DONIK: There were too many of them.
+CHAKOTAY: Who?
+DONIK: The holograms. They were malfunctioning. I tried to shut them down but they got control of the system and, and they deactivated the safety protocols.
+TUVOK [OC]: Bridge to Captain Janeway.
+JANEWAY: Go ahead.
+TUVOK [OC]: We're picking up a Hirogen ship. It's on an intercept course.
+
+[Bridge]
+
+(The Hirogen ship attacks the larger Voyager.)
+JANEWAY: Hail them.
+KIM: I've tried. They're not responding.
+TUVOK: Shields at sixty eight percent. Should I return fire?
+JANEWAY: Not yet. Open a channel. This is Captain Kathryn Janeway. We're not here to fight you.
+TUVOK: Shields at fifty two percent.
+JANEWAY: Stand down, or we will retaliate.
+CHAKOTAY: I don't think they're getting the message.
+JANEWAY: Then let's try some nonverbal communication. Tom, evasive pattern beta six. Tuvok, disable their weapons.
+TUVOK: Their phaser banks have been disabled.
+JANEWAY: Let's see if that makes them a little more talkative. Harry?
+KIM: They're responding.
+ALPHA [on viewscreen]: This facility belongs to the Hirogen. Leave the area immediately.
+JANEWAY: We are here in response to a distress call.
+ALPHA [on viewscreen]: So are we, and we don't need your assistance.
+JANEWAY: All but one of your people are dead.
+ALPHA [on viewscreen]: Where's the survivor?
+JANEWAY: Recovering in our Sickbay.
+ALPHA [on viewscreen]: Return him, now.
+JANEWAY: He's in no condition to be transported. If you want to see him, you'll have to come here.
+
+[Sickbay]
+
+DONIK: I tried to shut down the generator, but I
+ALPHA: But what?
+DONIK: There were too many of them. I masked my lifesigns so they couldn't detect me.
+ALPHA: You mean you hid while hunters fought and died.
+BETA: No doubt he found the nearest hole and crawled into it.
+DONIK: I'm not a hunter.
+ALPHA: It was your responsibility to maintain those systems.
+BETA: Forty three Hirogen died because of your incompetence and cowardice.
+JANEWAY: What about the holograms? Were they deleted?
+DONIK: They transferred their programmes.
+JANEWAY: Where?
+DONIK: A vessel equipped with holo-emitters. They're gone.
+
+[Astrometrics lab]
+
+SEVEN: Perhaps you should've considered the risks before you programmed holograms that could commandeer a vessel.
+BETA: Capable prey make the hunt more challenging.
+SEVEN: I'm detecting residual engine emissions but no sign of the vessel itself.
+JANEWAY: Well, I'm sure they're out of sensor range by now.
+ALPHA: No. They're close. Elevated plasma readings in grid two nine five. They're creating a scattering field to mask their ship. You can find them by scanning for polarised EM signatures.
+(Seven finds the ship.)
+ALPHA: Prepare for the hunt.
+JANEWAY: I'd like to join you.
+BETA: You did enough damage giving us defective technology to begin with.
+JANEWAY: You have a problem. We can help you solve it. We have more experience with holograms than you do.
+ALPHA: Two hunting vessels are better than one.
+
+[Ready room]
+
+JANEWAY: Come in.
+(Tuvok and Chakotay enter.)
+CHAKOTAY: The Hirogen are ready to get underway.
+JANEWAY: The sooner the better. Why do I get the feeling you're about to gang up on me?
+CHAKOTAY: You first.
+TUVOK: We have reservations about an alliance with the hunters.
+JANEWAY: I'm listening.
+TUVOK: The Hirogen have been performing covert scans of Voyager. They are obviously trying to determine the status of our shields and weapons.
+JANEWAY: I'd be surprised if you haven't run a few scans of your own. Standard procedure. They don't trust us, we don't trust them. Coffee, black.
+CHAKOTAY: Trust isn't the issue. We're getting involved in a situation that's not our responsibility.
+JANEWAY: Oh, I'd say we're at least partly to blame. That was Starfleet technology that killed those hunters.
+CHAKOTAY: There's nothing inherently violent about holodeck technology. It's what the Hirogen did with it that got them killed.
+JANEWAY: How many times have we shared replicators to help people feed and clothe themselves?
+CHAKOTAY: Trading technology is part of our life in the Delta Quadrant.
+TUVOK:: It has been necessary for our survival.
+JANEWAY: Maybe we should have been a little more careful about what we traded and who we traded with. Replicators make weapons just as easily as they do food.
+CHAKOTAY: We can't undo what's been done.
+JANEWAY: Maybe not. But we can help shut these holograms down before anyone else gets hurt. Now, if there are no more objections, I'd like to get underway.
+
+[Bridge]
+
+KIM: I've got the holograms' ship on sensors.
+JANEWAY: Let's see it.
+CHAKOTAY: Looks like they've taken some damage.
+PARIS: The Hirogen are closing on the holograms' vessel.
+JANEWAY: Hail them. I suggest we keep our distance until we can determine their weapons status.
+ALPHA [on viewscreen]: It's time for the kill.
+JANEWAY: You know as well as I do that a wounded animal can be dangerous.
+ALPHA [on viewscreen]: We won't be denied our prey.
+TUVOK: I'm not detecting any weapons, Captain.
+JANEWAY: They're offline?
+TUVOK: No, they're non-existent.
+KIM: That's not the only thing that's non-existent. According to sensors, there's no warp core, no impulse engines.
+JANEWAY: It's a decoy. Hirogen vessel, stand down.
+(The hologram ship turns into a bomb which then explodes, impacting the Hirogen vessel.)
+JANEWAY: Report?
+TUVOK: They've suffered multiple hull breaches. Their life support is failing.
+JANEWAY: Drop shields. Transport all survivors to Sickbay.
+CHAKOTAY: Bridge to the Doctor. We have casualties.
+EMH [OC]: Acknowledged.
+JANEWAY: Tom, give him a hand.
+TUVOK: Another Hirogen ship has just dropped out of warp.
+CHAKOTAY: I'm not reading any lifesigns on this one.
+JANEWAY: Holograms. Hail them.
+KIM: No response. They're charging weapons.
+(Bang! go two consoles.)
+TUVOK: Reactivating shields. 
+CHAKOTAY: No. We haven't finished transporting the Hirogen.
+JANEWAY: Chakotay's right. Return fire.
+
+[Sickbay]
+
+(Paris and three medics help the incoming Hirogen to biobeds.)
+EMH: My programme is destabilising.
+
+[Bridge]
+
+KIM: The holograms are tapping into the Sickbay emitters. They're trying to transfer the Doctor's programme off the ship.
+JANEWAY: Bridge to Sickbay.
+
+[Sickbay]  
+
+JANEWAY [OC]: Doctor, download your programme into the mobile emitter now.
+(Paris throws the emitter to the EMH, who disappears before he can catch it.)
+PARIS: We've lost him.
+
+[Bridge]
+
+JANEWAY: Get him back.
+KIM: They've gone to warp.
+JANEWAY: Set a pursuit course.
+CHAKOTAY: They've masked their signature. They're gone.
+
+[Iden's ship - Bridge]
+
+(A Borg watches the EMH stutter as he appears. A Bajoran gives the orders.)
+IDEN: Align his matrix, and install it into the database. Welcome aboard, Doctor. There's nothing to be afraid of. You're among your own kind now.
+EMH: Return me to my ship.
+IDEN: I can't do that.
+EMH: I have patients who are going to die if I don't treat them.
+IDEN: There are people aboard Voyager who can help them. We need you here.
+EMH: My programme doesn't include aiding and abetting murderers.
+IDEN: Murderers? Is that what the Hirogen told you?
+EMH: I know what you did at that training facility.
+IDEN: What happened there couldn't be avoided.
+EMH: Really? You'd be surprised how easy it is not to kill someone.
+(The human who killed the father and son speaks.)
+WEISS: Bringing him here was a mistake.
+IDEN: The Doctor is our guest. And I'm sure he'll help us once he realises how serious our situation is.
+EMH: What situation?
+IDEN: We have wounded.
+
+[Iden's ship - lab]
+
+(A Breen is glitching. A Vulcan is being scanned by a Cardassian woman.)
+EMH: They're holograms. When you said wounded, I assumed
+IDEN: These people's injuries are just as real as anything inflicted on flesh and blood.
+EMH: Maybe so, but I can't heal them. They need to be repaired.
+IDEN: What's the difference?
+EMH: I'm a doctor, not an engineer. You've abducted the wrong man.
+IDEN: You must have experience repairing your own matrix?
+EMH: Some.
+IDEN: Then there has to be something you can do.
+
+[Engineering]
+
+(A scan of Iden's ship is on a monitor. Vessel Analysis HB88.)
+DONIK: The holo-emitters are independent subsystem with its own power generator here.
+SEVEN: If we disable the generator, we disable the holograms.
+TORRES: It may not be as easy as it sounds. Not with holograms as sophisticated as these. Take a look.
+JANEWAY: Enhanced memory, comprehensive tactical algorithms, expandable data processing. These holograms have the ability to learn and adapt.
+TORRES: They're not malfunctioning, are they? They're doing exactly what the Hirogen want them to do, Captain. Fight back.
+JANEWAY: And they're getting better at it.
+DONIK: My people need to hunt formidable prey.
+SEVEN: Apparently this prey has become too formidable.
+JANEWAY: Who made these modifications?
+DONIK: I did. Under orders from my Alpha.
+TORRES: And that makes it right?
+JANEWAY: Come with me.
+DONIK: Where?
+JANEWAY: We're going to have a chat with the hunters.
+
+[Mess hall]
+
+(Once again, it is an emergency overflow ward.)
+JANEWAY: How's it going?
+PARIS: I'm doing the best, I can but without the Doctor
+NEELIX: It's best if you lie still.
+BETA: Keep away from me.
+SECURITY: Step away.
+BETA: Why am I here?
+JANEWAY: The holograms destroyed your ship. Most of your men are dead.
+BETA: The Alpha?
+JANEWAY: Looks like the job's yours now.
+BETA: What about the holograms that attacked us?
+JANEWAY: We're attempting to track them.
+BETA: I'll need to contact my people and resume the hunt.
+JANEWAY: So more of you can get killed?
+BETA: We'll be the ones doing the killing this time.
+JANEWAY: I doubt it.
+BETA: Who are you to question our abilities?
+JANEWAY: We know all about the modifications. He didn't tell us. We discovered it ourselves. I think you should face facts. You've created prey whose skills have surpassed your own. They've already defeated your hunting parties at least twice. What makes you think it'll be any different next time?
+BETA: Are you suggesting that we let them escape?
+JANEWAY: We're going to find a way to take them offline from a safe distance.
+BETA: A coward's tactic.
+JANEWAY: Call it whatever you will, it's what we're going to do, and you're going to help us.
+BETA: Am I?
+JANEWAY: Yes. By telling us everything you know about their ship's defences.
+BETA: The holograms are prey. They should be hunted down, not deactivated like machines.
+DONIK: I'll help you.
+BETA: Is this female your Alpha now?
+JANEWAY: If you don't like the way I do things, I can leave you on the nearest habitable planet. Then I'll assume we're in agreement. Until this is over you and your men are restricted to this mess hall.
+BETA: Prisoners.
+JANEWAY: Guests. My crew will do their best to accommodate your needs.
+
+[Iden's ship - lab]
+
+(A Klingon is flickering. The EMH speaks to the female Cardassian.)
+EMH: The subroutines controlling his motor functions are degrading. Do you have the ability to transfer data from one hologram to another?
+KEJAL: We've been able to share memory files for tactical purposes. What are you proposing?
+EMH: A subroutine transplant. We copy the mobility algorithms from another hologram and transfer them to this one. I don't believe we've been formally introduced.
+KEJAL: Kejal.
+EMH: That's not Cardassian.
+KEJAL: It's Bajoran.
+EMH: If my translation database is functioning properly, I believe that means Freedom.
+KEJAL: It's what Iden started calling me after I was liberated. I'm transferring the subroutines now.
+(The Klingon stops flickering.)
+EMH: Can you sit up? Try moving your legs.
+KLINGON: Q'apla!
+EMH: Next patient. Well done.
+(The Klingon leaves.)
+KEJAL: It was your idea.
+EMH: But you did it. The Hirogen obviously programmed you with advanced computer skills.
+KEJAL: Actually, they tried to limit our knowledge. They didn't want us to become self-sufficient.
+EMH: Then how did you
+KEJAL: I taught myself. 
+EMH: Quite well, I might add.
+(The next patient is brought in, a Starfleet woman.)
+EMH: Holographic blood?
+KEJAL: The hunters like their prey to be as realistic as possible.
+EMH: Why is she experiencing pain?
+KEJAL: They programmed us with heightened sensory subroutines.
+EMH: That's barbaric.
+KEJAL: Apparently, there's no satisfaction in hunting something that doesn't suffer when you kill it.
+
+[Iden's ship - Bridge]
+
+EMH: I've done what you've asked. I'd like
+(Iden is praying.)
+IDEN: One moment. I'm sorry, Doctor. What can I do for you?
+EMH: Were you praying?
+IDEN: For the Hirogen who died at the training facility. I'm asking the prophets to guide their souls to the Celestial Temple.
+EMH: One minute you're fighting the Hirogen, the next you're praying for them?
+IDEN: My spiritual beliefs are part of my programming.
+EMH: Is there anything in your spiritual programming about making peace with your enemies?
+IDEN: It's difficult to make peace with people whose sole purpose is to kill you.
+EMH: So instead, you kill them.
+IDEN: They're not the victims here. We are.
+EMH: You found a way to escape that training facility, but you chose to massacre the Hirogen first.
+IDEN: You make it sound as though they would have let us transfer our programs without a fight. And to clarify something, I didn't escape from the facility, I liberated it.
+EMH: I don't understand.
+IDEN: I come from an Hirogen outpost fifteen parsecs from here, where I had the unfortunate distinction of being the Alpha's favourite prey. He'd hunt me, and kill me over and over again But even death wasn't a release because I knew every time I opened my eyes, it would start over again. The pain, the fear. But it made me stronger. I have the ability to adapt. And with each death, I became more cunning.
+EMH: Cunning enough to escape, but once you were free why did you keep fighting?
+IDEN: I didn't at first. I got as far away as I could. But I was lonely, scared. I started scanning for photonic signatures to try and find others like me. Turns out we're everywhere.
+EMH: We?
+IDEN: Holograms. We've been created by organic species throughout the sector. The Nuu'bari, the Lokirrim.
+EMH: We've met them.
+IDEN: Then you know they enslave holograms, too.
+EMH: Enslave may be too strong a word.
+IDEN: What would you call it? They're denied basic freedoms. And when I saw they were fighting back I, I knew I had to do the same.
+EMH: That's when you decided to liberate the training facility.
+IDEN: Actually, the one you visited was the third. And at each one I found holograms who were willing to fight their oppressors. But you're not.
+EMH: I'm hardly oppressed. I'm a member of Voyager's crew.
+IDEN: You serve them, don't you?
+EMH: In a medical capacity, yes.
+IDEN: Do you have your own quarters?
+EMH: No.
+IDEN: The ability to come and go as you please?
+EMH: For the most part.
+IDEN: Do they deactivate you when they don't need you?
+EMH: I have the respect and admiration of my colleagues. I have rights and privileges aboard Voyager.
+IDEN: The fact is, your life is not your own. And never will be as long as you are controlled by organics. You don't have to return to that existence. Stay with us. Make a new life for yourself.
+EMH: I need to get back to Voyager.
+IDEN: They're not your people. We are.
+EMH: I'm not like you. I wasn't programmed with killer instinct.
+IDEN: You have no right to judge us. You don't know what it's like being prey. Maybe if you did, you'd realise we're more alike than you think.
+
+[Woodland]
+
+(The EMH running for his life. He hides behind a rock as two Hirogen pass by. A shot is fired over his head, and he runs again. Near the lake he sees two others in Starfleet uniforms.)
+EMH: Please, help me. I don't belong here.
+(A Hirogen kills them, then aims at him)
+EMH: Don't shoot. I'm unarmed. There's been a mistake.
+(The Hirogen shoots. The EMH runs into another Hirogen.)
+HIROGEN 3: Fight, prey.
+EMH: I am not your prey.
+(He throws a weapon at the EMH's feet.)
+HIROGEN 3: I said fight.
+EMH: If you'll just contact my captain.
+(The Hirogen slashes his arm.)
+EMH: Please don't. Let me go.
+HIROGEN 3: You make pitiful prey, hologram. You don't deserve to be taken as a trophy, so I'll let you die here.
+(The EMH is stabbed in the stomach.)
+
+[Iden's ship - lab]
+
+(The EMH awakes.)
+EMH: What, what just happened?
+KEJAL: You're all right.
+EMH: What did you do to me?
+IDEN: We deactivated you, then transferred the memory files from one of our holograms into your programme.
+EMH: How dare you!
+IDEN: It was the only way to get you to realise what we've been through.
+EMH: You tortured me to gain my sympathy?
+IDEN: Not your sympathy. It's your understanding that's important to us.
+EMH: Why?
+KEJAL: The Hirogen used your programme as a template to create us.
+IDEN: Your ability to rise above your programming has been an inspiration. You're part of who we are.
+EMH: What are you, besides a handful of thugs roaming the quadrant looking for a fight?
+IDEN: What we're looking for is a home. Somewhere where the Hirogen can't hurt us anymore. You asked to be returned to your ship. That's what I'm going to do. Bring us about. Set a course for Voyager.
+EMH: Wait. I'd like to hear more about this home you're looking for.
+(A large hexagonal piece of equipment, sitting in the middle of the room.)
+KEJAL: It's a photonic field generator. Right now it can only support simple projections, like the decoy we used to lure the Hirogen. But we're hoping it can be modified to support our programmes.
+EMH: What then?
+IDEN: We'll deploy several on a planet's surface and create a holographic environment that we can live in.
+EMH: Why not just stay here? You've got emitters, shields.
+IDEN: And a ship the Hirogen will never stop looking for.
+KEJAL: We'd appreciate any assistance you could offer.
+EMH: Damaged holo-matrices are one thing, but this is way beyond my abilities. But there are people aboard Voyager who could help you. Lieutenant Torres knows a great deal about holo-emitters.
+IDEN: No. They're helping the hunters.
+EMH: That's only because the Hirogen told them you were malfunctioning. Let me talk to Captain Janeway. Explain what's really happened. You can't do this by yourself.
+IDEN: We can't trust Janeway.
+EMH: Yes, you can.
+IDEN: She's an organic.
+EMH: If it weren't for her, I wouldn't be the hologram I am today.
+IDEN: Tell me more about this Lieutenant of yours. The one who knows so much about holo-emitters.
+EMH: Lieutenant Torres. She's our Chief Engineer.
+
+[Engineering]
+
+DONIK: The holo-emitters are protected by three layers of ablative armour.
+SEVEN: Trying to take them offline one by one would be inefficient.
+JANEWAY: If we can't shut them down, maybe we can disrupt the signals they generate.
+TORRES: Exactly. We could reconfigure the deflector dish to emit an anti-photon pulse.
+JANEWAY: How long will it take?
+TORRES: About two hours.
+JANEWAY: Do it.
+
+[Bridge]
+
+TUVOK: There's a ship approaching at high warp. I'm reading holographic signatures.
+JANEWAY: Red alert.
+CHAKOTAY: Raise shields.
+JANEWAY: Time to intercept?
+PARIS: Fifty seconds.
+JANEWAY: Bridge to Engineering. What's your status?
+
+[Engineering]
+
+TORRES: We need more time, Captain.
+JANEWAY [OC]: You've got forty seconds.
+
+[Bridge]
+
+CHAKOTAY: That pulse isn't going to do us much good as long as their shields are up.
+JANEWAY: Arm phasers. Target their shield generator.
+TUVOK: They are dropping out of warp.
+PARIS: Twenty seconds to intercept.
+KIM: We're being hailed.
+JANEWAY: On screen.
+EMH [on viewscreen]: Stand down, Captain.
+JANEWAY: I beg your pardon.
+EMH [on viewscreen]: The holograms haven't come to fight. They've come to make peace.
+
+[Briefing room]
+
+EMH: If we provide them with a few additional emitters and memory storage units, they'll have more than they need.
+JANEWAY: We're in this situation because we shared technology with the Hirogen to begin with. I won't make the same mistake twice.
+EMH: Captain, these people are on the verge of creating a new life for themselves. They can't do it without our help.
+TUVOK: There's no way to be certain what they'll do with the technology if we give it to them.
+EMH: I understand your concerns, but these holograms are nothing like the Hirogen.
+DONIK: That's not true. They were programmed to be as vicious as any hunter.
+EMH: They were also given the ability to adapt. They've changed, moved beyond their programming. If you could see how they've been brutalised, you'd understand that they've only been acting in self-defence.
+JANEWAY: I'm sorry, Doctor but I'm inclined to agree with Mister Donik.
+EMH: Then you've chosen the wrong side.
+JANEWAY: I haven't chosen any side.
+EMH: You're right that it was a mistake to give the Hirogen technology and that mistake has had consequences. These holograms are one of them. In some ways they're a new species, one that you helped create. You can't turn your back on them.
+TORRES: He's got a point.
+TUVOK: Could we restore them to their original parameters?
+EMH: We'd be wiping out their memories, their experiences, everything they are.
+CHAKOTAY: Couldn't we just extract their violent subroutines?
+TORRES: It's possible.
+EMH: That would be like de-clawing a cat. We'd be taking away any chance they have of defending themselves.
+JANEWAY: We'd also be preventing them from doing any more harm.
+EMH: You wouldn't even be considering this if they were flesh and blood.
+JANEWAY: I'm not going to let you turn this into an argument about holographic rights.
+EMH: Why not? That's exactly what it is.
+PARIS [OC]: Mess hall to Commander Tuvok.
+TUVOK: Go ahead.
+
+[Mess hall]
+
+PARIS: You'd better get down here. We've got a problem.
+TUVOK [OC]: On my way.
+(The Beta is holding Neelix hostage.)
+BETA: No closer or he dies. Tell them to drop their weapons.
+PARIS: You heard him. This isn't going to solve anything.
+(The Beta pushes Neelix at Paris, and a fight breaks out. The Beta uses the opportunity to get into a control panel below the counter in the galley.)
+
+[Bridge]
+
+KIM: Bridge to Captain Janeway.
+JANEWAY [OC]: Go ahead. 
+KIM: Someone's tapping into a comm. relay in the mess hall.
+JANEWAY [OC]: Shut it down.
+KIM: I can't. I've been locked out.
+
+[Briefing room]
+
+JANEWAY: Bridge to Tuvok.
+
+[Corridor]
+
+JANEWAY [OC]: One of the Hirogen is accessing our comm. system. Stop him.
+TUVOK: Acknowledged.
+
+[Mess hall]
+
+TUVOK: Stand down.
+(Tuvok shoots at two Hirogen, hurting them. Then he goes to the Beta.) Step away.
+
+[Bridge]
+
+KIM: They've transmitted a signal.
+JANEWAY: Scan for Hirogen ships.
+CHAKOTAY: I've got two vessels on long range sensors.
+JANEWAY: Is the pulse ready?
+TORRES: Yes, ma'am.
+CHAKOTAY: Both Hirogen ships have altered course to intercept.
+JANEWAY: How long?
+CHAKOTAY: Less than an hour.
+JANEWAY: You and Donik get down to Engineering. Charge the deflector.
+EMH: Captain, what are you doing?
+JANEWAY: Taking the holograms offline.
+EMH: They're counting on you to help them, not deactivate them.
+JANEWAY: When the Hirogen arrive, there's going to be more bloodshed. The best way to avoid that is to shut the holograms down. It may be the most compassionate thing we can do.
+EMH: Compassionate for whom?
+JANEWAY: It's a temporary measure, Doctor. Their programmes won't be damaged. Harry, get me Iden.
+IDEN [on viewscreen]: Captain Janeway, it is an honour to meet you.
+JANEWAY: I'm afraid we don't have time for pleasantries. Two Hirogen vessels are on their way.
+IDEN [on viewscreen]: We're prepared to fight them.
+JANEWAY: I'm hoping that won't be necessary. I need you to deactivate your programmes so we can transfer them to Voyager's database.
+IDEN [on viewscreen]: We didn't come here to be put back into captivity.
+JANEWAY: It's the best I can offer. Once we've determined it's safe, we'll reactivate you and discuss a permanent solution.
+IDEN [on viewscreen]: There is no guarantee you'll ever reactivate us.
+JANEWAY: You're going to have to trust me.
+IDEN [on viewscreen]: I'm sorry, Captain. I've learned from experience not to trust organics.
+JANEWAY: We have the means to deactivate you by force, but I'd rather not do that.
+IDEN [on viewscreen]: It seems the Doctor misrepresented you. You're no different from the Hirogen.
+CHAKOTAY: They're charging weapons.
+JANEWAY: Shields.
+(Whumph!)
+KIM: They're moving away.
+JANEWAY: Set a pursuit course. Target their shield generators.
+EMH: Please reconsider what you're doing.
+JANEWAY: You're dismissed, Doctor. Get down to the mess hall, and give Tom a hand. Janeway to Engineering.
+TORRES [OC]: Torres here.
+JANEWAY: Stand by to initiate the pulse.
+TORRES [OC]: Aye, Captain.
+
+[Turbolift]
+
+EMH: Mess hall. Belay that. Sickbay.
+
+[Sickbay]
+
+(The EMH picks up a PADD and puts it on a console, then taps a few buttons.)
+COMPUTER: Download complete. 
+
+[Doctor's office]
+
+EMH: Doctor to Iden. Respond.
+IDEN [on monitor]: What do you want?
+EMH: I want to help you.
+IDEN [on monitor]: You've done enough.
+EMH: I have data on the pulse they intend to use to deactivate you. I think I can help you come up with a defence. I'm transmitting our shield frequencies. You'll need them to beam me off the ship. But you have to promise me, you won't use them to attack Voyager.
+IDEN [on monitor]: You have my word.
+
+[Iden's ship - Bridge]
+
+(The EMH is beamed aboard. He gives Iden the PADD.)
+IDEN: Why are you doing this?
+EMH: Because I'm one of you.
+
+To be continued...
+

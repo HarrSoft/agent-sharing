@@ -1,0 +1,537 @@
+S5 E16
+Dark Frontier Part 2
+Stardate: 52619.2
+Original Airdate: 17 February 1999
+
+[Borg Queen's chamber]
+QUEEN: You've changed. Your exo-plating, your ocular implant. They've taken you apart and they've re-created you in their own image. Hair, garments, but at the core you are still mine.
+SEVEN: The Borg have changed as well. I expected re-assimilation, not conversation.
+QUEEN: I see they've also given you a sense of humour.
+SEVEN: My humour is my own.
+QUEEN: Spoken like a true individual. The last two years must have been a remarkable experience. You are unique.
+SEVEN: My experience will add to your perfection.
+QUEEN: Yes.
+SEVEN: That is why you removed me from Voyager.
+QUEEN: That is why we put you there in the first place. You believe that Voyager liberated you from the Collective. Did you really think we would surrender you so easily?
+SEVEN: Explain.
+QUEEN: You must be tired. It's time to regenerate. We've adapted an alcove just for you. Go. It will help order your thoughts. When your cycle is complete we will continue our conversation. Comply.
+
+[Engineering]
+
+JANEWAY: Progress?
+TORRES: We were having trouble modulating the coil to our warp field. But I had an inspiration this morning. Instead of trying to adapt the coil to our technology, we should be adapting our systems to theirs. With any luck, we should have transwarp capability by oh six hundred.
+JANEWAY: Impressive.
+TORRES: Actually, I can't take all the credit. I did some digging in Seven of Nine's personal database and I found some designs she'd been working on to enhance the warp drive. With a few adjustments
+JANEWAY: Work with Mister Paris on a flight plan. I want to make our first trial run tomorrow afternoon.
+TORRES: Right.
+JANEWAY: And B'Elanna? Don't access personal databases without my authorisation.
+TORRES: Captain?
+JANEWAY: There are protocols for observing privacy on this ship.
+TORRES: No offence, but Seven of Nine is not on this ship anymore.
+JANEWAY: I realise the two of you weren't exactly close. Regardless, we've just lost one of our own.
+TORRES: She was never one of our own, Captain. Didn't she just prove that?
+JANEWAY: I don't know what happened on that sphere and neither do you, Lieutenant. Carry on.
+
+[Cargo Bay two]
+
+CHAKOTAY: No sign of Borg activity. We made a clean getaway.
+JANEWAY: The Sphere?
+CHAKOTAY: It hasn't shown up on long range sensors or subspace telemetry. It could be anywhere in the quadrant by now.
+JANEWAY: Launch a class five probe. Scan for residual transwarp signatures.
+CHAKOTAY: Understood.
+JANEWAY: Why choose this moment to rejoin the Collective?
+CHAKOTAY: Maybe she'd been planning it all along.
+JANEWAY: She's had any number of opportunities to leave before now.
+CHAKOTAY: But never direct access to a Borg vessel. I will betray you. That's what she said two years ago when you disconnected her from the hive.
+JANEWAY: Two days ago, she told me Voyager had become her Collective.
+NEELIX: Captain, we've cleared out most of the debris, but before we vaporise it I'd like to melt down the larger fragments and extract the polytrinic compounds.
+JANEWAY: Makes sense.
+NEELIX: That leaves just one item, Seven of Nine's alcove. It requires a lot of power, over thirty megawatts. Should I deactivate it?
+JANEWAY: No, leave it alone.
+
+[Ready room]
+
+JANEWAY: Computer, isolate the sensor readings for time index one one four point six. Identify source.
+COMPUTER: Random subspace energy fluctuations.
+JANEWAY: Isolate the sensor readings for time index one six six point two. Source?
+COMPUTER: Random subspace energy fluctuations.
+JANEWAY: Computer, run a transpectral analysis on all subspace fluctuations. (doorbell) Yes?
+TUVOK: A member of the crew has requested an appointment with the Captain. I informed her that you were occupied, but she was insistent.
+JANEWAY: Whatever it is, I'm sure Commander Chakotay can handle
+(Then she sees Naomi peeking out from behind Tuvok.)
+JANEWAY: Request granted. Send her in.
+(Tuvok leaves them.)
+NAOMI: Permission to submit a proposal for your review.
+JANEWAY: Proposal?
+NAOMI: It's a rescue operation for Seven of Nine.
+JANEWAY: Oh. You created this plan all by yourself?
+NAOMI: Yes, ma'am. You see, if we change our long range sensors to Seven's cortical implant frequency maybe we can find her.
+JANEWAY: The Delta Quadrant is a very big place, and Seven could be thousands of light years from here.
+NAOMI: What if we boosted our sensor range with power from the main deflector?
+JANEWAY: You've been spending too much time in Engineering. I'm afraid it's not quite that simple. But thank you, Crewman. Your initiative is duly noted.
+NAOMI: Captain? You're not going to give up, are you?
+JANEWAY: There are three things to remember about being a Starship Captain. Keep your shirt tucked in, go down with the ship, and never abandon a member of your crew.
+COMPUTER: Transpectral analysis complete.
+JANEWAY: Take a look at this, Naomi. What do you see?
+NAOMI: Sensor logs.
+JANEWAY: These aren't random energy fluctuations. They're Borg comm. signals, and they were all directed at Cargo Bay two.
+NAOMI: You mean the Borg were talking to Seven of Nine?
+JANEWAY: It sure looks that way. Come on.
+
+[Borg Queen's chamber]
+
+QUEEN: Good morning.
+SEVEN: My visual cortex. It's been altered.
+QUEEN: We've enhanced it with Borg technology. You've seen through human eyes long enough. It's a neural processing adjunct designed to increase your synaptic efficiency.
+SEVEN: Remove it.
+QUEEN: You prefer to remain small?
+SEVEN: I prefer to remain unique.
+QUEEN: Don't be afraid. We won't turn you into a drone. You're much too valuable to us with your individuality intact. But you've left humanity behind. Try to abandon their petty emotions as well. Fear, anger, vanity. They've corrupted you, but the damage can be repaired.
+SEVEN: You've expended significant resources to capture me. Why?
+QUEEN: Isn't it obvious? You're going to help us assimilate humanity. We failed in our first attempt to assimilate Earth, and we won't succeed the next time unless we understand the nature of their resistance. We want you to be our eyes. Let us see humanity.
+SEVEN: While I was regenerating, you assimilated my memories.
+QUEEN: Our thoughts are one.
+SEVEN: Then you already possess all of my knowledge. What more do you want?
+QUEEN: You are the only Borg that has ever returned to a state of individuality. We want to keep you exactly the way you are. Otherwise you would lose your human perspective. We don't want another drone. We want you.
+SEVEN: I will resist.
+QUEEN: I know.
+(Rumble)
+SEVEN: What's happening?
+QUEEN: Our vessel is disengaging from the Unicomplex. We're setting a course for grid five three two.
+SEVEN: State our purpose.
+QUEEN: Assimilation. Our presence is not required, but I thought the experience would be a rewarding one for you. Species one zero zero two six.
+SEVEN: How many lifeforms?
+QUEEN: Three hundred ninety two thousand. You're experiencing compassion. A human impulse. You've forgotten what it means to be Borg. Those lives will be added to our own.
+
+MAGNUS [OC]: Field notes, U.S.S. Raven, supplemental. It's been a busy week. The cube linked with another Borg vessel and received over fifty thousand new drones. We now begin the dangerous task of identifying the newcomers.
+
+[USS Raven - lab]
+
+(They have brought a drone onto their ship.)
+ERIN: Species six nine six one, Ktarian. Tritanium infrastructure. He's a tactical drone.
+MAGNUS: Take a look at his proximity transceiver. Let's check his previous designation.
+ERIN: Three of five, Tertiary adjunct of Unimatrix one.
+MAGNUS: I want to keep an eye on this one. Let's tag him. Bring me the subdermal probe, will you?
+ANNIKA: Is he special?
+MAGNUS: Very special. We think he used to work near the Borg Queen. If he ever goes back there, we'll be able to track him now.
+ANNIKA: Does the Queen have a throne?
+MAGNUS: Nobody knows.
+ERIN: We think she's more like the Queen of an insect colony. She helps coordinate all the other drones.
+MAGNUS: His regeneration cycle's almost complete. We'd better get him back.
+ANNIKA: Bye.
+(The drone is beamed away.)
+ERIN: He's in his alcove. Nobody missed him. Enough drones for one day. Anybody hungry?
+ANNIKA: Me.
+MAGNUS: You two go ahead. I want to read through his cranial transceiver logs, see if he was ever in direct contact with the Queen.
+ERIN: Don't be long.
+
+[Janeway's quarters]
+
+CHAKOTAY: It turns out his hunch was right. The drone had been receiving direct commands from this Borg Queen. I analysed the comm. signals. Look at the transpectral frequencies.
+JANEWAY: They match the ones that were sent to Seven. What did the Hansens learn about this Queen?
+CHAKOTAY: I'm afraid they never got a chance to find out.
+JANEWAY: One thing is certain. She contacted Seven of Nine, and the next day Seven rejoined the Borg. Obviously, she exerts some influence.
+CHAKOTAY: You think Seven was instructed to leave Voyager?
+JANEWAY: Instructed, coerced. She insisted she join the away team. She was adamant that if she didn't board that Sphere, our mission would fail. Sounds to me like she was being threatened. My instincts told me she was holding something back, but I, I didn't pursue it. I let her go.
+CHAKOTAY: If you hadn't, we might all be drones by now.
+JANEWAY: What's running through that Collective mind of yours? You've got thousands of species to choose from, billions of individuals. Why Seven of Nine? You should've assimilated us while you had the chance.
+CHAKOTAY: Captain?
+JANEWAY: I want you to keep analysing the Hansens' database. Compile a list of every technology they created to track the Borg. Assemble a team of engineers to assist you.
+CHAKOTAY: If you're planning a rescue mission, that research will only take us so far.
+JANEWAY: Oh?
+CHAKOTAY: I've studied their log entries long enough to realise that as brilliant as the Hansens were, they made a fatal mistake. They became overconfident.
+JANEWAY: We won't make the same mistake.
+
+[Bridge]
+
+JANEWAY: This will be a long range tactical rescue. It could take days, even weeks, before we find our missing crewman. Lieutenant Torres is equipping the Delta Flyer with the transwarp coil. It'll allow us to cover more territory. An away team will take it into transwarp space, where Tuvok believes we can track the sphere that abducted Seven of Nine. Thanks to the Hansens, we'll be well prepared for an encounter with the Borg. Their multi-adaptive shielding will make the Flyer virtually invisible to Borg sensors, and narrow beam transporters will allow us to penetrate the Sphere. Mister Paris, you'll man the helm. Commander Tuvok, tactical. Doctor, there's no telling what condition Seven will be in when we find her. You'll come along.
+EMH: Yes, Captain.
+JANEWAY: I'll be leading the away team. The rest of you will remain on Voyager and maintain position at the threshold of our transwarp conduit. We may need tactical support when we return. You'll be taking your orders from Commander Chakotay. We'll be searching for one individual among thousands of drones. But she's one of us and I'm not about to let her go. Let's get started.
+
+[Delta Flyer]
+
+PARIS: All systems go. We're ready for the jump.
+JANEWAY: Bring the coil online. Prepare for transwarp.
+TUVOK: Power output fluctuating.
+JANEWAY: Compensating.
+PARIS: We're at critical velocity.
+JANEWAY: Engage, Mister Paris.
+PARIS: Transwarp in four, three, two. We've crossed the threshold.
+JANEWAY: Steady as she goes. Doctor, are you all right?
+EMH: Just a little motion sickness. I'll need to adjust my matrix to accommodate for extreme velocity.
+TUVOK: I'm detecting residual transwarp signatures. They match the Borg Sphere.
+JANEWAY: Adjust our course and follow it, Mister Paris.
+EMH: I believe the Captain's order was steady as she goes.
+JANEWAY: Full speed ahead.
+
+[Borg Queen's chamber]
+
+QUEEN: We've arrived. Are you ready?
+SEVEN: I have familiarised myself with the species.
+QUEEN: Tactical weakness.
+SEVEN: Their vessels lack manoeuverability.
+QUEEN: Tactical strength.
+SEVEN: They've developed a modulating phaser pulse that can penetrate our shields.
+QUEEN: How do you propose we adapt?
+SEVEN: You are the Borg. You tell me.
+QUEEN: Thirty nine of their vessels are converging on our position. They're firing weapons. Our shields are failing. We will be destroyed. How do you propose we adapt?
+SEVEN: Triaxillate our shield geometry to absorb their phaser pulses.
+QUEEN: I was thinking the same thing. Adaptation complete. They're no longer a threat. Go to the Primary Assimilation Chamber. You'll monitor the bio-extraction process. You look reluctant. Maybe I've been pushing you too quickly. You can assist with the repairs to our shield matrix instead. Seven of Nine. Be efficient.
+
+[Assimilation chamber]
+
+(Seven helps with the shield matrix, but she can hear the newcomers shouting. An alien is escorted past her, then something explodes. She goes to repair it and is knocked down by another explosion. Two Borg lift her up and scan her, then let her go. An alien breaks free of his escort and tries to run. She grabs him, and a Borg assimilates him in front of her eyes. She is shocked and moves away. Passing an assimilation chamber, she looks in and sees an alien with most of an arm amputated ready for augmentation. A female turns and looks at her. She is one of three waiting for similar procedures. Another control node explodes and the Borg standing guard goes to fix it. She deactivates the Borg surgeon and helps the alien sit up.)
+SEVEN: Assist me. I am not Borg, I will help you escape. Assist me!
+(They help the male up. Seven uses a control panel.)
+SEVEN: I'm detecting one of your vessels. It's heavily damaged, the crew is dead. The Borg are ignoring it. It's propulsion system is still functioning. I will transport you aboard. Remain there until the Borg leave orbit. Then set a course on a heading of one two one mark nine. Do you understand?
+(They nod. She beams them away.)
+
+[Borg Queen's chamber]
+
+QUEEN: Congratulations.
+SEVEN: Regarding?
+QUEEN: Assimilation is complete.
+SEVEN: Three hundred thousand individuals have been transformed into drones. Should they be congratulated as well?
+QUEEN: They should be. They've left behind their trivial, selfish lives and they've been reborn with a greater purpose. We've delivered them from chaos into order.
+SEVEN: Comforting words. Use them next time instead of resistance is futile. You may elicit a few volunteers.
+QUEEN: You cling to sarcasm because you are afraid to see the truth. Species one zero zero two six is already adding to our perfection. You can feel their distinctiveness coursing through us, enhancing us. Stop resisting. Take pleasure in this.
+SEVEN: I will not take pleasure in the destruction of a race.
+QUEEN: Human sentiment. Compassion, guilt, empathy. They're irrelevant.
+SEVEN: Not to me.
+QUEEN: Me? There is no me. There is only us. One mind.
+SEVEN: My thoughts are my own.
+QUEEN: We've overlooked something. A ship. Four lifeforms. They're trying to escape. How do you suggest we proceed? Destroy the vessel, or assimilate it?
+SEVEN: Neither. There are only four lifeforms and the vessel is heavily damaged. It would be an inefficient use of our resources. We should ignore it.
+QUEEN: In this case, our thoughts are not one. If those individuals are allowed to survive, species one zero zero two six will survive and continue to resist us. But that's what you were hoping for, wasn't it? You tried to mask their lifesigns, but I detected them.
+(A tractor beam from a Cube grabs the little ship.)
+SEVEN: Release the vessel.
+QUEEN: I'm sorry this lesson has to be so painful for you, but you are a difficult pupil. Abandon your human frailties. They are the cause of your pain.
+SEVEN: Let them go. Please.
+(The little ship is released.)
+SEVEN: I thought compassion was irrelevant.
+
+MAGNUS [OC]: Field notes, U.S.S. Raven, stardate 32634.9. The Raven was hit by a subspace particle storm. We took heavy damage and our multi-adaptive shielding went offline for thirteen point two seconds. Unfortunately, it was long enough for the Borg to perceive us as a threat.
+
+[USS Raven - Bridge]
+
+ERIN: I've found something. A nebula.
+MAGNUS: Class?
+ERIN: Mutara. Distance, three light years. I'm setting a course.
+MAGNUS: The particle density's too high. Our hull would breach.
+ERIN: We can reinforce structural integrity.
+MAGNUS: We'll find somewhere else to hide.
+ERIN: There's no time.
+
+[Annika's room]
+
+MAGNUS [OC]: It's been three hours and the Cube hasn't found us yet. As long as we can keep masking our warp trail
+ERIN [OC]: The entire Collective knows about us by now. They'll send more ships.
+MAGNUS [OC]: The nebula's too dangerous.
+
+[USS Raven - Bridge]
+
+MAGNUS: We've had close calls before. This is no different. Remember when the transporters failed?
+ERIN: And you had to spend the night in a maturation chamber, with fifty two neonatal drones. A transwarp conduit, two point three light years starboard. It's a Cube heading right for us.
+MAGNUS: Time to intercept?
+ERIN: One hour, maybe less.
+ANNIKA [OC]: Papa?
+MAGNUS: Be right there, Annika. Start looking for an M-class planet. We'll abandon ship if we have to.
+
+[Annika's room]
+
+MAGNUS: Hey.
+ANNIKA: Are we going to be assimulated?
+MAGNUS: Not if I can help it. Go back to sleep, your mother and I have work to do.
+ANNIKA: Are the Borg mad at us?
+MAGNUS: No.
+ANNIKA: Then why are they chasing our ship?
+MAGNUS: They're curious about us, like we are about them. But don't worry, we won't let them get too close.
+ANNIKA: Can't we go home?
+MAGNUS: Soon.
+ANNIKA: Papa, will it hurt to be a drone?
+MAGNUS: Sleep.
+
+[Delta Flyer]
+
+EMH: Captain?
+JANEWAY: Hmm.
+EMH: I'd like to suggest a few modifications to the comm. array.
+JANEWAY: Yes?
+EMH: I've studied Seven's cranial schematics and I've isolated the frequency of her interplexing beacon. When we catch up with the Sphere, we might be able to send her a brief message.
+JANEWAY: What if she's already been linked to the hive mind?
+EMH: Every drone has its own translink signature. Only Seven will be able to hear our message.
+JANEWAY: I'll give you a hand.
+EMH: The Hansen Diaries. Not exactly light reading.
+JANEWAY: I've been poring over their last log entries for any details we might have missed. I want to make sure history doesn't repeat itself.
+EMH: They should have quit while they were ahead. Ten million terraquads of data, three years in the wild.
+JANEWAY: They could have studied the Borg for another three decades and still have barely scratched the surface. I agree their methods were unorthodox, but that's been true of most great explorers.
+EMH: Most explorers don't take their four year old daughter along for the ride.
+JANEWAY: We'll get her back, Doctor, with her parents' help.
+PARIS: Captain, I've got a fix on the Sphere's location. It's in a region about two hundred light years from here.
+JANEWAY: Red alert. Bring the multi-adaptive shielding online. Set a course for those coordinates and prepare to disengage transwarp drive.
+(Later, in normal space, they approach the Unicomplex.)
+JANEWAY: Report.
+TUVOK: I'm detecting thousands of integrated substructures, trillions of lifeforms, all Borg.
+PARIS: There's a Cube coming up fast off our port bow.  
+(And straight past.)
+JANEWAY: Did they detect us?
+TUVOK: I don't believe so.
+JANEWAY: Any sign of our Sphere?
+PARIS: Yes, ma'am. Its ion signature leads directly to that whatever it is.
+JANEWAY: Take us in, Mister Paris, minimum thrusters. Begin scanning for Seven, Tuvok.
+TUVOK: Aye, Captain.
+
+[Borg Queen's chamber]
+
+QUEEN: I have a task for you. We're planning to deploy a new mode of assimilation designed for highly resistant species. I want you to programme the nanoprobes.
+SEVEN: Your technology has changed since I left the Collective. My knowledge is insufficient.
+QUEEN: Your knowledge for the target species is invaluable. Species five six one eight. Human. Warp capable. Origin, grid three two five. Physiology inefficient, below average cranial capacity, minimal redundant systems, limited regenerative abilities. Our previous attempts to assimilate them were all direct assaults. They failed, so we've created a more surreptitious strategy.
+SEVEN: You intend to detonate a biogenic charge in Earth's atmosphere.
+QUEEN: It would infect all lifeforms with nanoprobe viruses. Assimilation would be gradual. By the time they realised what was happening, half their population would be drones.
+SEVEN: Inefficient. The virus would take years to proliferate.
+QUEEN: We've waited this long. Interface with the central alcove. Begin programming the nanoprobes. Be sure to enhance the viral sequencers. You've been involved in hundreds of assimilations. This is no different.
+SEVEN: To you, perhaps. Part of me is still human. I will not assist in their destruction.
+QUEEN: We all originated from lesser species. I myself came from species one two five. But that's irrelevant now. We are Borg.
+SEVEN: I am an individual.
+QUEEN: You're only repeating their words. You sound like a mindless automaton. Comply, or we will turn you into a drone.
+SEVEN: Proceed, if you wish.
+QUEEN: You're torn between your desire to be one with us and your loyalty to them. It's time for you to complete your task. All of your emotions, grief, guilt, remorse, compassion, will be irrelevant once humanity is assimilated. Forget Voyager. They were never your Collective.
+(Drones surround them closely.)
+SEVEN: I am Annika Hansen. Human.
+QUEEN: I remember Annika. Does she remember us? She wasn't afraid. Why are you?
+SEVEN: You attacked us. You murdered my family.
+QUEEN: We did no such thing. We gave them perfection.
+(A drone steps forward. It is Magnus, her father.)
+SEVEN: Papa.
+QUEEN: Your family's here. You're here. Be one with us again.
+JANEWAY [OC]: Seven of Nine, we're searching for you. Try to hang on.
+SEVEN: Captain.
+QUEEN: What did you say?
+SEVEN: Nothing.
+QUEEN: Janeway.
+
+[Delta Flyer]  
+
+JANEWAY: Our transmission's being deflected.
+EMH: By whom?
+JANEWAY: I'm not certain.
+TUVOK: I have isolated Seven's position. She's inside a large infrastructure approximately six hundred kilometres away.
+JANEWAY: Set a course, Mister Paris.
+
+[Borg Queen's chamber]
+
+QUEEN: She's close. Her comm. signal originated within this spatial grid, but we can't detect her vessel. He knows why. Your father designed the technology Captain Janeway's using. Multi-adaptive shielding. Your perfect defence against the Borg. But we assimilated that knowledge, didn't we? We will adapt easily.
+
+[Delta Flyer]
+
+PARIS: The Cube has altered course. It's heading straight for us.
+JANEWAY: They've detected us. Remodulate the shields. Evasive manoeuvres.
+PARIS: It flew right past us.
+JANEWAY: We won't fool their sensors much longer. Tuvok?
+TUVOK: Seven is inside a large chamber.
+JANEWAY: Can you get a lock on her?
+TUVOK: Not at this distance.
+JANEWAY: Take us to within transporter range.
+
+[Borg Queen's chamber]
+
+QUEEN: We have their ship. A Federation shuttlecraft. Three lifeforms, one hologram.
+SEVEN: If you've captured their vessel, you've assimilated them by now. I would sense their presence in the Collective. Captain Janeway is eluding you.
+
+[Delta Flyer]
+
+PARIS: The chamber is too heavily shielded. I can't get a lock on her.
+JANEWAY: Can we beam into one of these adjoining corridors?
+TUVOK: I believe so.
+JANEWAY: Time for the bio-dampeners. Tom, hold our position. Target that chamber with full weapons. Stand by to fire on my command.
+PARIS: Ma'am, won't you be down there?
+JANEWAY: Do it.
+
+[Borg Sphere]
+
+(Armed for bear, Janeway uses a tricorder to find Seven.)
+JANEWAY: This way.
+(They are stopped by a forcefield.)
+TUVOK: Try to locate the shield matrix.
+JANEWAY: Tuvok.
+TUVOK: I can disable the forcefield, but it will take several minutes.
+JANEWAY: Do it.
+(A Borg walks through the forcefield and straight past them.)
+JANEWAY: Tuvok, give me the subdermal probe.
+
+[Borg Queen's Chamber]
+
+QUEEN: It's not too late to save them. As you wish.
+
+[Delta Flyer]
+
+PARIS: They've isolated our shields again. Three vessels are converging. I'm remodulating.
+
+[Borg Queen's chamber]
+
+(The Delta Flyer vanishes from the screen again.)
+SEVEN: You underestimate them.
+QUEEN: It's time for a more aggressive approach.
+
+[Delta Flyer]
+
+(Whumph!)
+EMH: I thought they couldn't see us.
+PARIS: They can't! They're firing blind!
+
+[Borg Sphere]
+
+(Janeway injects a drone in an alcove.)
+JANEWAY: Wake him. It's transmitting.
+(The drone walks through the forcefield.)
+JANEWAY: I've got it. Field modulation is three two four point nine five.
+(Tuvok adjusts her bio-dampener.)
+TUVOK: Proceed.
+(Janeway goes through the forcefield, and her bio-dampener fritzes.)
+JANEWAY: It's offline.
+TUVOK: You'll be detected.
+JANEWAY: Then I'd better hurry. You've got to disable the shield matrix around that chamber.
+
+[Delta Flyer]
+
+PARIS: It's no use, they've locked on to our shield modulators. They're adapting the second we change frequencies.
+BORG [OC]: We are the Borg. You will be assimilated.
+
+[Borg Queen's chamber]
+
+BORG [OC]: Resistance is futile.
+QUEEN: You have failed them.
+SEVEN: No!
+QUEEN: We believed you would be an asset to us. We were wrong. You are weak.
+JANEWAY: Don't listen to her, Seven. She's irrelevant. Call them off or I'll destroy you.
+QUEEN: Your weapons are useless.
+JANEWAY: Don't be so sure. My tactical officer is disabling the shields around this room. Tom, status.
+PARIS [OC]: We've targeted the chamber, Captain.
+JANEWAY: Let her go, or I'll give the order to fire.
+QUEEN: You would be destroyed as well, along with your crewman.
+JANEWAY: Better than being one of you. Tom, high-yield torpedoes, full spread. Fire on my command.
+(The drones stop advancing on Janeway.)
+
+[Delta Flyer]
+
+ PARIS: Captain, they've disengaged
+
+[Borg Queen's Chamber]
+
+PARIS [OC] the tractor.
+JANEWAY: Hold your fire. Beam us out of here.
+PARIS [OC]: A dispersal field just activated around the chamber you're in. I can't get a lock.
+JANEWAY: Seven, shut down that field.
+QUEEN: Don't listen to her. She's poisoned your thoughts long enough.
+JANEWAY: I'm giving you an order.
+QUEEN: One order, one voice. Insignificant.  
+(Seven sends tubules into a control node. The field drops.)
+JANEWAY: Tom, energise.
+SEVEN: She's adapting.
+PARIS [OC]: The field went up again, Captain. I can't beam you out.
+QUEEN: You will assist the Collective as drones. Assimilate them.
+SEVEN: Captain, target the power node directly above this alcove. It will disrupt her command interface. Our thoughts are one.
+(Janeway shoots at the node, and she and Seven are beamed away.)
+
+[Delta Flyer]
+
+(The EMH quickly scans Seven.)
+EMH: Welcome back.
+(Whumph!)
+PARIS: Three vessels, closing fast.
+TUVOK: Direct hit to our tactical array. Weapons are down.
+JANEWAY: Bring the coil online. Prepare for transwarp.
+(The Queen's shuttle is also in pursuit.)
+JANEWAY: Tom?
+PARIS: Transwarp in four, three, two. A vessel entered the conduit with us, just before it closed.
+TUVOK: They're targeting our engines.
+JANEWAY: Maintain course.
+PARIS: Direct hit on the port nacelle. We're venting plasma.
+TUVOK: Rerouting emergency power.
+PARIS: It's not enough. I'll need thirty teradynes at least, or we'll lose transwarp.
+JANEWAY: How long to the rendezvous coordinates?
+PARIS: Two point four minutes, but we'll drop out of transwarp in less than one.
+JANEWAY: Reroute power from life support.  
+EMH: Captain!
+JANEWAY: I'd rather suffocate than vaporise. Do it!
+
+[Bridge]
+
+(Torres is at Seven's station.)
+TORRES: I'm picking up transwarp signatures. There's a conduit approaching, thirty thousand kilometres off our port bow.
+CHAKOTAY: Battle stations.
+
+[Delta Flyer]
+
+PARIS: We're twenty seconds from normal space.
+JANEWAY: The Borg vessel?
+TUVOK: Still in pursuit, closing rapidly.
+PARIS: Fifteen seconds.
+SEVEN: They're trying to lock on with a tractor beam.
+JANEWAY: Remodulate shields.
+PARIS: Threshold in eight, seven, six.
+TUVOK: They're locking on.
+PARIS: Five.
+SEVEN: I've re-polarised the shields. It's being deflected.
+PARIS: Three, two.
+
+[Bridge]
+
+TORRES: They're through.
+CHAKOTAY: Voyager to Delta Flyer. Report.
+JANEWAY: We've got Seven, but there's a Borg vessel right behind us.
+CHAKOTAY: Target the threshold perimeter. Photon torpedoes, full spread.
+TORRES: Commander?
+CHAKOTAY: It should destabilise the matter stream and implode the conduit for at least a light year.
+TORRES: Torpedoes locked.
+CHAKOTAY: Fire.
+
+[Delta Flyer]
+
+JANEWAY: Voyager, report.
+CHAKOTAY [OC]: We collapsed
+
+[Bridge]
+
+CHAKOTAY: the conduit. No sign of Borg activity.
+
+[Delta Flyer]
+
+JANEWAY: Clear us for docking. We're coming home.
+
+[Bridge]
+
+TORRES: Commander, I'm picking up Borg signatures. Lots of them.
+CHAKOTAY: Source?
+TORRES: The conduit.
+CHAKOTAY: I thought you collapsed it.
+TORRES: So did I.
+CHAKOTAY: Stand by weapons. Captain
+
+[Delta Flyer]
+
+CHAKOTAY [OC]: Raise shields. We've got company.
+
+[Bridge]
+
+TORRES: Here they come.
+(In tiny pieces.)
+
+Captain's log, stardate 52619.2. We got another twenty thousand light years out of the transwarp coil before it gave out. I figure we're a good fifteen years closer to home.
+
+[Cargo Bay two]
+
+JANEWAY: I see you've picked up some bad habits.
+SEVEN: Captain?
+JANEWAY: The Doctor told you to regenerate for at least two days. You're violating a direct medical command.
+SEVEN: I will comply when my work is completed.
+JANEWAY: Borg tactical data?
+SEVEN: During my time at Unimatrix One I acquired a vast amount of knowledge. It may prove useful in our future encounters with the Borg. I am downloading it into Voyager's database. The Borg believed I was unique, that I understood humanity. They were obviously mistaken.
+JANEWAY: How so?
+SEVEN: I betrayed the crew of Voyager, threatened you with assimilation. I did not expect you to return for me.
+JANEWAY: Looks like you still have a few things to learn. Time to regenerate.
+SEVEN: When I am finished.
+JANEWAY: No, now. That's an order.
+SEVEN: Yes, Captain.
+JANEWAY: Sweet dreams.
+
